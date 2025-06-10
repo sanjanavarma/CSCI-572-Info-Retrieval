@@ -1,1 +1,1 @@
-# CSCI-572-Info-Retrieval-
+# CSCI-572-Info-Retrieval
