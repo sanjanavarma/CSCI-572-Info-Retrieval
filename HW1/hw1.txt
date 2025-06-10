@@ -1,0 +1,6 @@
+Search Engine: Bing
+
+The average overlap for all 100 queries is just 1.52, which means that, on average, out of 10 URLs, only atmost 2 of the search results match.
+Apart from that, the percentage of overlap is calculated to be just 15.352, as reflected in the average overlap result.
+Last but not least, the average Spearman Coefficient is -6.2425. Which means that the corrrelation is very weak between Google and Bing.
+This essentially tells us that Bing and Google have different mechanisms for ranking search results.
