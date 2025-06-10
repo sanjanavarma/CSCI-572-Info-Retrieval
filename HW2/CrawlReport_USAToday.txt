@@ -1,0 +1,33 @@
+Name: Parvathi Sanjana Pericherla
+USC ID: 6075279768
+News site crawled: usatoday.com
+Number of threads: 7
+
+Fetch Statistics:
+=================
+# Fetches Attempted: 20000
+# Fetches Succeeded: 20000
+# Fetches Failed/Aborted: 0
+
+Outgoing URLs:
+==============
+# Total URLs Extracted: 1388917
+# Unique URLs Extracted: 168443
+# Unique URLs Within Site: 121173
+# Unique URLs Outside Site: 47270
+
+Status Codes:
+=============
+200 OK: 20000
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 3
+10KB ~ <100KB: 10556
+100KB ~ <1MB: 9320
+>= 1MB: 121
+
+Content Types:
+==============
+text/html: 20000
